@@ -44,5 +44,3 @@ The dataset contains employee information such as:
 - RMSE: 5137.94
 - R² Score: 97.99%
 
-## Author
-Harshith Pentapati
